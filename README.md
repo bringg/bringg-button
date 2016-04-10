@@ -1,3 +1,5 @@
+![Preview](https://github.com/bringg/bringg-button/blob/master/howtoimages/preview.gif)
+
 1. First you must be a registered merchant with Bringg http://app.bringg.com
 2. Create a new public task form https://app.bringg.com/#/merchant/merchant-config/ ![Adding the public task form](https://github.com/bringg/bringg-button/blob/master/howtoimages/add%20new%20public%20task%20form.png)
 3. Copy the public task form link (should start with http://form.bringg.com/#/?uuid=) we will use it soon.
