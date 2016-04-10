@@ -1,0 +1,19 @@
+#bringg-order-button {
+    display: inline-block;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-color: #598ad9;
+    background-image: url(http://bringg.com/wp-content/uploads/2015/07/logo_whit.png);
+    background-size: 28px 28px;
+    background-position-x: 3px;
+    background-position-y: 3px;
+    background-repeat: no-repeat;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 36px;
+    height: 36px;
+}
