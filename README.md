@@ -10,7 +10,7 @@
     <!-- The code for the button -->
     <script src="bringg-button.js"></script>
 ```
-6. Add a onload callback to body of the product page and initialize the BringgButton with the id of button you 
+6  Add a onload callback to body of the product page and initialize the BringgButton with the id of button you 
 ```
 function handleOnLoad(){
     BringgButton('bringg-order-button');
@@ -23,6 +23,6 @@ function handleOnLoad(){
 <button id="bringg-order-button" data-href="YOUR PUBLICK TASK FORM LINK GOES HERE"></button>
 ...
 ```
-7. Paste the public task form url to the data-href property you can see above
+7  Paste the public task form url to the data-href property you can see above
 
 Test that the button is working by clicking on it and creating a order with it.
