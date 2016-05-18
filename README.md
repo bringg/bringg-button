@@ -11,6 +11,7 @@
     <script src="bringg-button.js"></script>
 ```
 5.  Add a onload callback to body of the product page and initialize the BringgButton with the id of button you 
+
 ```
 function handleOnLoad(){
     BringgButton('bringg-order-button');
